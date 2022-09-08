@@ -1,4 +1,4 @@
-# Blackjack Network Game
+# Network Blackjack Game
 
 ### Opis aplikacji
 
