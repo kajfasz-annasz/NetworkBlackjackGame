@@ -19,3 +19,7 @@ Gra w **Blackjacka** opiera się o rzuty 2 kościami:
 * Aby uruchomić aplikację należy pobrać wszystkie pliki z repozytorium i otworzyć przy użyciu oprogramowania Visual Studio
 * Do poprawnego działania potrzebne są 2 komputery (lub 2 okna aplikacji)
 * W celu rozegrania partii blackjacka należy podać adres IP, Port oraz nazwę użytkownika a następnie wcisnąć przycisk **połącz**.
+
+### Prezentacja aplikacji
+
+![img_1](Images/scr_1.png)
